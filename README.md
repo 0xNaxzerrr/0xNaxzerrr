@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lattana! 
+# 👋 Hi there ! 
 
 ## 👨‍💻 About Me
 
