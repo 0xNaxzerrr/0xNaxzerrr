@@ -39,5 +39,6 @@ I'm currently open to freelance opportunities and collaborative projects. If you
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=0xNaxzerrr&label=Profile%20Views&color=0e75b6&style=flat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNaxzerrr&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repositories and leave feedback. 😊
