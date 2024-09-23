@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate **fullstack developer** with expe
 
 Feel free to reach out to me through the following platforms:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lattana-soucksengphet/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [lattana](https://www.linkedin.com/in/lattana-soucksengphet/)
+- Twitter: [@S_lattana](https://twitter.com/S_lattana)
 - Email: [naxdev75@gmail.com](mailto:naxdev75@gmail.com)
 
 ## 🏅 Achievements & Certifications
