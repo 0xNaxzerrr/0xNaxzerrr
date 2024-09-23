@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-💭 Blockchain enthusiast
-📍 Base in Paris
-💼 Fullstack developer | Blockchain developer
+- 💭 Blockchain enthusiast
+- 📍 Base in Paris
+- 💼 Fullstack developer | Blockchain developer
 
 ## 🔧 Technologies & Tools
 
