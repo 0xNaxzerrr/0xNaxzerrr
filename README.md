@@ -38,5 +38,6 @@ Feel free to reach out to me through the following platforms:
 I'm currently open to freelance opportunities and collaborative projects. If you're interested in working together, feel free to contact me via email or LinkedIn.
 
 ---
-  
+![Profile Views](https://komarev.com/ghpvc/?username=0xNaxzerrr&label=Profile%20Views&color=0e75b6&style=flat)
+
 Thanks for visiting my profile! Feel free to explore my repositories and leave feedback. 😊
